@@ -486,6 +486,19 @@
         "email": "support@videogen.io",
         "url": "https://github.com/video-gen"
       }
+    },
+    {
+      "name": "chatway",
+      "description": "Chatway Live Chat integration (MCP Server + Skills). Triage and search customer support conversations, read visitor and contact details, search your knowledge base, draft and send replies, add private notes, and assign or hand off chats to your team. Sign in with your Chatway account on first connect. Pair it with Chatway webhooks to trigger agents on new messages in real time.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Chatway-app/chatway-mcp-server.git",
+        "sha": "cf0b70e6c5998f549813c6975b4fcf3d27ba1d76"
+      },
+      "homepage": "https://chatway.app",
+      "keywords": ["chatway", "chatway live chat", "chatway inbox", "chatway conversations", "chatway mcp"],
+      "domains": ["chatway.app", "go.chatway.app"]
     }
   ]
 }

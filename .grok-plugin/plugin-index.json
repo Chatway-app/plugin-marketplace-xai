@@ -114,6 +114,40 @@
         ]
       }
     },
+    "chatway": {
+      "sha": "cf0b70e6c5998f549813c6975b4fcf3d27ba1d76",
+      "version": "1.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "chatway",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "chatway-ai-reply-assistant",
+            "description": "Draft and send customer support replies in Chatway, grounded in the conversation history and your help center or knowle…"
+          },
+          {
+            "name": "chatway-customer-context",
+            "description": "Look up a customer's support history in Chatway. Summarize past conversations, previous issues, what the customer alrea…"
+          },
+          {
+            "name": "chatway-smart-routing",
+            "description": "Route and escalate Chatway customer support conversations to human agents. Find chats that need a human handoff, recomm…"
+          },
+          {
+            "name": "chatway-support-insights",
+            "description": "Analyze Chatway customer support conversations to find recurring issues, common customer questions, and knowledge base…"
+          },
+          {
+            "name": "chatway-support-triage",
+            "description": "Triage customer support conversations and live chat tickets in Chatway. Review the unresolved inbox, find customers wai…"
+          }
+        ]
+      }
+    },
     "chrome-devtools": {
       "sha": "158f85f80d6ef5470cbfcd386a901c7434bc9fd8",
       "version": "1.11.0",
