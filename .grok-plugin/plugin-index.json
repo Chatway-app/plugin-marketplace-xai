@@ -115,8 +115,8 @@
       }
     },
     "chatway": {
-      "sha": "cf0b70e6c5998f549813c6975b4fcf3d27ba1d76",
-      "version": "1.1.0",
+      "sha": "4ab53b551a677f600fa672cec09ca2f21b79b633",
+      "version": "1.2.0",
       "components": {
         "mcpServers": [
           {
@@ -127,23 +127,23 @@
         "skills": [
           {
             "name": "chatway-ai-reply-assistant",
-            "description": "Draft and send customer support replies in Chatway, grounded in the conversation history and your help center or knowle…"
+            "description": "Draft and send accurate customer replies using conversation history and your Chatway knowledge base. Use when asked to…"
           },
           {
             "name": "chatway-customer-context",
-            "description": "Look up a customer's support history in Chatway. Summarize past conversations, previous issues, what the customer alrea…"
+            "description": "Understand a customer's history, previous issues, and past interactions in Chatway before responding. Use when asked fo…"
           },
           {
             "name": "chatway-smart-routing",
-            "description": "Route and escalate Chatway customer support conversations to human agents. Find chats that need a human handoff, recomm…"
+            "description": "Identify Chatway conversations requiring human assistance and route them to the right support agents. Use for support e…"
           },
           {
             "name": "chatway-support-insights",
-            "description": "Analyze Chatway customer support conversations to find recurring issues, common customer questions, and knowledge base…"
+            "description": "Analyze Chatway customer conversations to identify recurring issues, support trends, and knowledge gaps. Use for weekly…"
           },
           {
             "name": "chatway-support-triage",
-            "description": "Triage customer support conversations and live chat tickets in Chatway. Review the unresolved inbox, find customers wai…"
+            "description": "Review unresolved Chatway conversations, prioritize urgent requests, and identify chats requiring attention. Use when a…"
           }
         ]
       }
